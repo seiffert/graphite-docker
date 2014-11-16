@@ -1,4 +1,7 @@
-Use together with pseiffert/graphite-data and pseiffert/carbon
+(Docker) Container that runs Graphite 
+=====================================
+
+Use together with pseiffert/graphite-data ([github](https://github.com/seiffert/graphite-data-docker)/[hub](https://registry.hub.docker.com/u/pseiffert/graphite-data/)) and pseiffert/carbon ([github](https://github.com/seiffert/carbon-docker)/[hub](https://registry.hub.docker.com/u/pseiffert/carbon/))
 
 1) Run the data volume container:
 
