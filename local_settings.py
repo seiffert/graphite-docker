@@ -10,3 +10,7 @@ DATABASES = {
         'PORT': ''
     }
 }
+
+CONF_DIR = '/opt/graphite/conf'
+STORAGE_DIR = '/opt/graphite/storage'
+STATIC_ROOT = '/opt/graphite/static'
